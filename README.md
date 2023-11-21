@@ -63,3 +63,7 @@ print(kontak.items())
 print(30*"═")
 ```
 ![2](lat.png)
+
+## Praktikum 5
+
+![gambar output]()
