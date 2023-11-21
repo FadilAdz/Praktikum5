@@ -62,4 +62,4 @@ kontak.pop('Dina')
 print(kontak.items())
 print(30*"═")
 ```
-![2]()
+![2](lat.png)
