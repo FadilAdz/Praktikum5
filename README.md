@@ -75,3 +75,7 @@ Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan kete
 * Commit dan push repository ke github.
 
 ![gambar output](hasiloutput.png)
+
+# Flowchart
+
+  ![FLOWC](ssz.jpg)
